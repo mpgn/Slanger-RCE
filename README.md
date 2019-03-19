@@ -1,6 +1,6 @@
 # Slanger RCE
 
-RCE in Slanger (a Ruby implementation of Pusher) using deserialization of Ruby objects ! 
+RCE in Slanger < 0.6.1 (a Ruby implementation of Pusher) using deserialization of Ruby objects ! 
 
 > While researching a web application last February, I learned about Slanger, an open source server implementation of Pusher. In this post I describe the discovery of a critical RCE vulnerability in Slanger 0.6.0, and the efforts that followed to responsibly disclose the vulnerability.
 
